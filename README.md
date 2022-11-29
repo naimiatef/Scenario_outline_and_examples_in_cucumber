@@ -1,6 +1,6 @@
 # Scenario_outline_and_examples_in_cucumber
 
-Afin d’éviter de répéter des scénarios qui ne varient que sur leurs paramètres en entrée et leurs paramètres en sortie, il est possible de créer un plan de scénario (scenario outline ou scenario template) et de passer les valeurs à utiliser sous la forme d’un tableau d’exemple :
+Afin d’éviter la répétition des scénarios qui ne varient que sur leurs paramètres en entrée et leurs paramètres en sortie, il est possible de créer un plan de scénario (scenario outline ou scenario template) et de passer les valeurs à utiliser sous la forme d’un tableau d’exemple :
 
 
 
